@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:University of Colombo stat research presentations
+DTSTART:20210813T170000Z
+SUMMARY:University of Colombo stat research presentations
+UID:b7e7cdd5-5ef0-4ed8-a75b-263c8a3fa288@b7e7.org
+URL:https://forms.gle/oMYQjiuVDZZTDoSf7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:5th SLAAI - International Conference on Artificial Intelligence (Paper Submission Deadline - 15-Aug-2021)
+DTSTART:20211206T000000Z
+SUMMARY:5th SLAAI - International Conference on Artificial Intelligence (Paper Submission Deadline - 15-Aug-2021)
+UID:f072c789-0c99-45a2-9611-82a191b79d56@f072.org
+URL:https://slaai.lk/icai/2021/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TADHACK 2021
+DTSTART:20210925T090000Z
+SUMMARY:TADHACK 2021
+UID:93787749-f34d-4b8c-aeca-8ad392fb8423@9378.org
+URL:https://tadhack.com/2021/global/tadhack-global-sri-lanka/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:6th International Conference on Information Technology Research 'Digital Resilience & Reinvention' (Paper submission Deadline - 30-Sep-2021)
+DTSTART:20211201T000000Z
+SUMMARY:6th International Conference on Information Technology Research 'Digital Resilience & Reinvention' (Paper submission Deadline - 30-Sep-2021)
+UID:c6a11256-3277-4e02-9c05-fbc3bd2b32cb@c6a1.org
+URL:https://icitr.uom.lk/
+END:VEVENT
+END:VCALENDAR
