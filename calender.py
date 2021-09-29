@@ -22,7 +22,7 @@ for r in csvreader:
 
 file.close()
 
-print(header)
+# print(header)
 # print(rows)
 
 c = Calendar()
@@ -41,7 +41,7 @@ for event in rows:
     print(e_datetime)
     print(e_desc)
 
-    e_begin =  parser.parse(e_datetime)
+    e_begin =  parser.parse(e_datetime + " +05:30")
 
     e.name = e_desc
     e.begin = e_begin
